@@ -1,11 +1,14 @@
 <img src="images/tdisplay.png?raw=true">
 
 <h1>
-LNPoS
+nanoLNPoS
 </h1>
 
-## Free and open-source bitcoin point-of-sale (includes device portal for easy setup!)
+## Light version of LNBits/LNPoS original code there
+## Free and open-source bitcoin point-of-sale
 
+Major changes:
+- Without config webbrowser portal
 
 LNPoS includes:
 
